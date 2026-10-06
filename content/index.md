@@ -2,7 +2,7 @@
 title: Big bang andromeda galaxy super sonic nitro boom boom quasar nigga blackhole asshole
 socialImage: https://utopia.inferalis.space/static/og-image.png
 ---
-markdown vault
+cheat code vault
 
 <div class="course-grid">
   <a href="Catia XXXX" class="course-card"><span class="course-icon material-symbols-outlined">code</span>Catia XXXX</a>
