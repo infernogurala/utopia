@@ -4,21 +4,25 @@ socialImage: https://utopia.inferalis.space/static/og-image.png
 ---
 cheat code vault
 
----
-title: CATIA
----
-
-# CATIA
-
-- [exp.CATPart](exp.CATPart)
-- [Lab Manual](lab%20manual%20digital%20manufacturing%20lab%20(1).pdf)
-
-
-
+# CATIA Downloads
 
 <div class="course-grid">
-  <a href="Catia" class="course-card"><span class="course-icon material-symbols-outlined">code</span>Catia</a>
+  <a href="Download%20files/Top%20palte%20101.CATPart" download class="course-card"><span class="course-icon material-symbols-outlined">download</span>Top palte 101.CATPart</a>
+  <a href="Download%20files/bottom%20plate%20101.CATPart" download class="course-card"><span class="course-icon material-symbols-outlined">download</span>bottom plate 101.CATPart</a>
+  <a href="Download%20files/guide%20bush%20101.CATPart" download class="course-card"><span class="course-icon material-symbols-outlined">download</span>guide bush 101.CATPart</a>
+  <a href="Download%20files/major.CATPart" download class="course-card"><span class="course-icon material-symbols-outlined">download</span>major.CATPart</a>
+  <a href="Download%20files/piller%20101.CATPart" download class="course-card"><span class="course-icon material-symbols-outlined">download</span>piller 101.CATPart</a>
+  <a href="Download%20files/lab%20manual%20digital%20manufacturing%20lab%20(1).pdf" download class="course-card"><span class="course-icon material-symbols-outlined">description</span>lab manual digital manufacturing lab (1).pdf</a>
 </div>
+
+### Direct Links
+
+- [Top palte 101.CATPart](Download%20files/Top%20palte%20101.CATPart)
+- [bottom plate 101.CATPart](Download%20files/bottom%20plate%20101.CATPart)
+- [guide bush 101.CATPart](Download%20files/guide%20bush%20101.CATPart)
+- [major.CATPart](Download%20files/major.CATPart)
+- [piller 101.CATPart](Download%20files/piller%20101.CATPart)
+- [lab manual digital manufacturing lab (1).pdf](Download%20files/lab%20manual%20digital%20manufacturing%20lab%20(1).pdf)
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,500,0,200">
 
