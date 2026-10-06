@@ -1,5 +1,5 @@
 ---
-title: Inferno's notes
+title: Big bang andromeda galaxy super sonic nitro boom boom quasar nigga blackhole asshole
 socialImage: https://utopia.inferalis.space/static/og-image.png
 ---
 markdown vault
