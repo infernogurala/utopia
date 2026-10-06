@@ -4,6 +4,18 @@ socialImage: https://utopia.inferalis.space/static/og-image.png
 ---
 cheat code vault
 
+---
+title: CATIA
+---
+
+# CATIA
+
+- [exp.CATPart](exp.CATPart)
+- [Lab Manual](lab%20manual%20digital%20manufacturing%20lab%20(1).pdf)
+
+
+
+
 <div class="course-grid">
   <a href="Catia" class="course-card"><span class="course-icon material-symbols-outlined">code</span>Catia</a>
 </div>
