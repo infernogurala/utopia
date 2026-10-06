@@ -1,16 +1,16 @@
 \---
 
-title: catia
+title: CATIA
 
 \---
 
 
 
-\# CAtia
+\# CATIA
 
 
 
-\- \[exp.CATPart](<exp.CATPart>)
+\- \[exp.CATPart](exp.CATPart)
 
-\- \[Lab Manual: Digital Manufacturing Lab](<lab manual digital manufacturing lab (1).pdf>)
+\- \[Lab Manual](lab%20manual%20digital%20manufacturing%20lab%20(1).pdf)
 
