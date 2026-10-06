@@ -5,7 +5,7 @@ socialImage: https://utopia.inferalis.space/static/og-image.png
 markdown vault
 
 <div class="course-grid">
-  <a href="Catia" class="course-card"><span class="course-icon material-symbols-outlined">code</span>Catia</a>
+  <a href="C Language" class="course-card"><span class="course-icon material-symbols-outlined">code</span>C Language</a>
 </div>
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,500,0,200">
