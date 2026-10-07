@@ -11,6 +11,7 @@ cheat code vault
   <a href="Download%20files/bottom%20plate%20101.CATPart" download class="course-card"><span class="course-icon material-symbols-outlined">download</span>bottom plate 101.CATPart</a>
   <a href="Download%20files/guide%20bush%20101.CATPart" download class="course-card"><span class="course-icon material-symbols-outlined">download</span>guide bush 101.CATPart</a>
   <a href="Download%20files/major.CATPart" download class="course-card"><span class="course-icon material-symbols-outlined">download</span>major.CATPart</a>
+  <a href="Download%20files/parametric-modelling.CATPart" download class="course-card"><span class="course-icon material-symbols-outlined">download</span>parametric-modelling.CATPart</a>
   <a href="Download%20files/piller%20101.CATPart" download class="course-card"><span class="course-icon material-symbols-outlined">download</span>piller 101.CATPart</a>
   <a href="Download%20files/lab%20manual%20digital%20manufacturing%20lab%20(1).pdf" download class="course-card"><span class="course-icon material-symbols-outlined">description</span>lab manual digital manufacturing lab (1).pdf</a>
 </div>
@@ -21,6 +22,7 @@ cheat code vault
 - [bottom plate 101.CATPart](Download%20files/bottom%20plate%20101.CATPart)
 - [guide bush 101.CATPart](Download%20files/guide%20bush%20101.CATPart)
 - [major.CATPart](Download%20files/major.CATPart)
+- [parametric-modelling.CATPart](Download%20files/parametric-modelling.CATPart)
 - [piller 101.CATPart](Download%20files/piller%20101.CATPart)
 - [lab manual digital manufacturing lab (1).pdf](Download%20files/lab%20manual%20digital%20manufacturing%20lab%20(1).pdf)
 
